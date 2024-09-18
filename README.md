@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=letranhieunhan" alt="letranhieunhan" /></a> </p>
 <img align="right" alt="coding" width="250" src="https://static.vecteezy.com/system/resources/previews/011/153/364/original/3d-website-developer-working-on-laptop-illustration-png.png">
 
-- 🔭 I’m currently studying at **Ho Chi Minh University of Science, Vietnam**
+- 🔭 I’m currently studying **International Bachelor Program of Computer & Information Sciences** at **Ho Chi Minh University of Science, Vietnam** and **Auckland University of Technology (AUT), New Zealand**
 
 - 👯 I’m looking to Job as **Developer**
 
